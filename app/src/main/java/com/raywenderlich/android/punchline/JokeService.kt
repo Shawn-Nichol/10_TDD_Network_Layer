@@ -35,7 +35,7 @@ import retrofit2.http.GET
 
 interface JokeService {
 
-    @GET("joke.json")
+    @GET("random_joke.json")
     fun geteRandomJoke(): Single<Joke> {
         TODO("Not yet implemented")
     }
