@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.yaml:snakeyaml:1.20:android">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.20/2aedb93fd5541cb5d78e9c6dd80d72ef8ef1c95f/snakeyaml-1.20-android.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.20/d729c219dfd392ea10468335e897c98416d1662e/snakeyaml-1.20-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.20/d63c79839811a7177d698c86be793fd22a61b7c9/snakeyaml-1.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
